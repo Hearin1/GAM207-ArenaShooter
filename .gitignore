@@ -1,0 +1,23 @@
+# Ignore engine-specific and large unnecessary files
+Saved/
+Intermediate/
+DerivedDataCache/
+.vscode/
+*.sln
+*.VC.db
+*.VC.opendb
+*.xcodeproj
+*.xcworkspace
+
+# Ignore user-specific project files
+*.opensdf
+*.sdf
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.log
+
+# Ignore built binaries
+Binaries/
+Build/
