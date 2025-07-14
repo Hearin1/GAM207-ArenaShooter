@@ -1158,3 +1158,69 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.14-02.59.07:138][ 29]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -145532755
 [2025.07.14-02.59.07:138][ 29]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3.865531, Update Interval: 300.997955
 [2025.07.14-02.59.10:454][376]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.07.14-03.00.58:206][293]LogDerivedDataCache: C:/Users/wizza/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.14-03.04.08:118][862]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 305.311829
+[2025.07.14-03.04.09:119][865]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.14-03.04.09:119][865]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 305.979767, Update Interval: 346.039612
+[2025.07.14-03.09.57:843][911]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 655.045166
+[2025.07.14-03.09.58:842][914]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.14-03.09.58:842][914]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 655.712585, Update Interval: 319.376801
+[2025.07.14-03.15.22:568][885]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 979.778503
+[2025.07.14-03.15.23:570][888]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.14-03.15.23:570][888]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 980.446472, Update Interval: 359.567871
+[2025.07.14-03.21.38:651][ 13]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1355.870239
+[2025.07.14-03.21.39:651][ 16]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.14-03.21.39:651][ 16]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1356.535522, Update Interval: 317.893616
+[2025.07.14-03.27.23:706][ 48]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1700.933350
+[2025.07.14-03.27.24:708][ 51]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.14-03.27.24:708][ 51]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1701.600220, Update Interval: 349.355743
+[2025.07.14-03.34.06:772][257]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2104.008545
+[2025.07.14-03.34.07:773][260]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.14-03.34.07:773][260]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2104.676270, Update Interval: 305.218658
+[2025.07.14-03.39.49:173][284]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2446.418945
+[2025.07.14-03.39.50:173][287]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.14-03.39.50:173][287]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2447.086426, Update Interval: 328.319946
+[2025.07.14-03.46.09:595][425]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2826.852783
+[2025.07.14-03.46.10:596][428]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.14-03.46.10:596][429]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2827.519043, Update Interval: 351.752686
+[2025.07.14-03.52.49:341][624]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3226.609375
+[2025.07.14-03.52.50:340][627]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.14-03.52.50:340][627]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3227.275879, Update Interval: 337.129425
+[2025.07.14-03.59.16:751][786]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3614.029053
+[2025.07.14-03.59.17:752][789]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.14-03.59.17:752][789]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3614.695801, Update Interval: 347.310394
+[2025.07.14-04.00.58:206][ 91]LogDerivedDataCache: C:/Users/wizza/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.14-04.05.41:823][941]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3999.113525
+[2025.07.14-04.05.42:824][944]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.14-04.05.42:825][944]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3999.781250, Update Interval: 318.435608
+[2025.07.14-04.11.37:894][  9]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4355.192383
+[2025.07.14-04.11.38:894][ 12]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.14-04.11.38:894][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4355.859375, Update Interval: 324.256714
+[2025.07.14-04.17.47:634][118]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4724.937012
+[2025.07.14-04.17.48:635][121]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.14-04.17.48:635][121]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4725.604004, Update Interval: 339.978638
+[2025.07.14-04.24.09:373][263]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5106.688477
+[2025.07.14-04.24.10:373][266]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.14-04.24.10:373][266]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5107.354980, Update Interval: 320.427856
+[2025.07.14-04.30.23:780][386]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5481.103027
+[2025.07.14-04.30.24:779][389]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.14-04.30.24:779][389]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5481.768555, Update Interval: 335.930054
+[2025.07.14-04.36.52:184][551]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5869.511719
+[2025.07.14-04.36.53:185][554]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.14-04.36.53:185][554]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5870.179199, Update Interval: 346.239197
+[2025.07.14-04.43.17:577][707]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6254.915039
+[2025.07.14-04.43.18:578][710]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.14-04.43.18:578][710]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6255.581543, Update Interval: 305.852234
+[2025.07.14-04.49.23:313][804]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6620.661621
+[2025.07.14-04.49.24:315][807]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.14-04.49.24:315][807]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6621.327148, Update Interval: 330.341492
+[2025.07.14-04.55.43:386][944]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7000.739746
+[2025.07.14-04.55.44:386][947]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.14-04.55.44:386][947]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7001.407227, Update Interval: 320.667755
+[2025.07.14-05.00.58:207][889]LogDerivedDataCache: C:/Users/wizza/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.14-05.01.37:459][  6]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7354.825195
+[2025.07.14-05.01.38:459][  9]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.14-05.01.38:459][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7355.492188, Update Interval: 308.223511
+[2025.07.14-05.07.23:523][ 44]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7700.896484
+[2025.07.14-05.07.24:522][ 47]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.14-05.07.24:522][ 47]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7701.562500, Update Interval: 314.956512
